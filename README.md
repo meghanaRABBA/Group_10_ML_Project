@@ -30,7 +30,7 @@ requirements.txt: Contains list of all required libraries
 
 Steps to run the code:
 1. Clone the repository
-   Open a terminal and run - ""
+   Open a terminal and run - "https://github.com/meghanaRABBA/Group_10_ML_Project.git"
 2. Run all the ".ipynb" files on Jupyter Notebook one after other
 3. The first cell in the ".ipynb" files contains the code "pip install -r requirements.txt". - Running this installs all the required libraries needed to run the code mentioned in the "requirements.txt" file.
 4. After running this cell continue to next cell to execute the respective alogrithm code and check the output.
