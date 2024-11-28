@@ -18,16 +18,18 @@ Evaluation Criteria:
 3. Complexity: Ease of deployment & interpretability
 4. Robustness: Ability to handle noisy/missing data
 
+Based on above Criterion the best choosen Algorithm is the XGBoost which is used in the main file - predictive_maintenance.ipynb.
 
 This repository contains several Jupyter notebooks, dataset and requirements file implementing different machine learning models for predictive maintenance:
 
 1. maintenance_data.csv: Dataset used for predictive maintenance
 2. ANN.ipynb: Artificial Neural Network algorithm
 3. logistic_regression.ipynb: Logistic Regression algorithm
-4. predictive_maintenance.ipynb: XGBoost algorithm
+4. predictive_maintenance.ipynb: XGBoost algorithm(main file)
 5. randomForest.ipynb: Random Forest algorithm
 6. svm.ipynb: Support Vector Machine algorithm
-7. requirements.txt: Contains list of all required libraries
+7. xgboost.ipynb: XGBoost algorithm
+8. requirements.txt: Contains list of all required libraries
 
 Steps to run the code:
 1. Clone the repository.
