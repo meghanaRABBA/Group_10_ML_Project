@@ -3,7 +3,7 @@ Predictive Maintenance in Manufacturing Sector
 Overview:
 > The process of brake manufacturing consists of multiple stages involving different kinds of machines like CNC for cutting the metal sheets, Grinder for grinding the brake parts, Hydraulic Press to make sure the parts are perfectly assembled and Testing machine to ensure the brakes operate as expected without any inaccuracies.Monitoring these machines is crucial as downtime can cause issues like delay in production, quality issues and increased costs. Our model solves this problem by predicting the machine’s current health, remaining utility lifespan and anomaly causing components in these machines.This helps the plant in going for a predictive maintenance rather than reactive. We aim to build the model efficient enough to create an appropriate maintenance schedules in order to avoid unwanted downtimes and therefore reducing costs and saving production time.
 
-This project focuses on implementing predictive maintenance for brake manufacturing machines, including CNC, Grinders, Hydraulic Presses, and Testing machines.By forecasting machine health and potential failures, we aim to reduce downtime, optimize maintenance schedules, and enhance production efficiency.
+> This project focuses on implementing predictive maintenance for brake manufacturing machines, including CNC, Grinders, Hydraulic Presses, and Testing machines.By forecasting machine health and potential failures, we aim to reduce downtime, optimize maintenance schedules, and enhance production efficiency.
 
 Algorithms Considered:
 1. Logistic Regression: Baseline, linear relationships
