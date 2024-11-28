@@ -12,10 +12,10 @@ Algorithms Considered:
 5. ANN: Captures complex patterns (deep learning)
    
 Evaluation Criteria:
-● Accuracy: Model performance on test data
-● Execution Time: Efficiency of training and inference
-● Complexity: Ease of deployment & interpretability
-● Robustness: Ability to handle noisy/missing data
+1. Accuracy: Model performance on test data
+2. Execution Time: Efficiency of training and inference
+3. Complexity: Ease of deployment & interpretability
+4. Robustness: Ability to handle noisy/missing data
 
 
 This repository contains several Jupyter notebooks, dataset and requirements file implementing different machine learning models for predictive maintenance:
